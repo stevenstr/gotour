@@ -23,7 +23,7 @@ Declaring variables, calling functions, and all the things you need to know befo
 
 Learn the basic components of any Go program.
 
-2) Flow control statements: for, if, else, switch and defer. 1-4
+2) Flow control statements: for, if, else, switch and defer. 1-14
 
 Learn how to control the flow of your code with conditionals, loops, switches and defers.
 
@@ -35,13 +35,13 @@ Learn how to define types based on existing ones: this lesson covers structs, ar
 
         
         Methods and interfaces
-1) Methods and interfaces. 1-26
+4) Methods and interfaces. 1-26
 
 This lesson covers methods and interfaces, the constructs that define objects and their behavior.
 
         
         Concurrency
-1) Concurrency. 1-11
+5) Concurrency. 1-11
 
 Go provides concurrency constructions as part of the core language. 
 This lesson presents them and gives some examples on how they can be used.
