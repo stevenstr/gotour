@@ -1,17 +1,6 @@
 # gotour
 
-Hello, 世界
-Welcome to a tour of the Go programming language.
-
-The tour is divided into a list of modules that you can access by clicking on A Tour of Go on the top left of the page.
-
-You can also view the table of contents at any time by clicking on the menu on the top right of the page.
-
-Throughout the tour you will find a series of slides and exercises for you to complete.
-
-Welcome to a tour of Go
-Using the tour
-
+Just browse through the branches of this repository to learn more about how I prepared for the interview.
 Welcome to a tour of the Go programming language. The tour covers the most important features of the language, mainly:
 
         Basics
