@@ -9,6 +9,7 @@ package main
 
 import "fmt"
 
+//main func
 func main() {
 
 	//create array
@@ -23,5 +24,4 @@ func main() {
 	var arr1 = [...]int{1, 2, 3, 4, 5, 6, 7}
 	fmt.Println(arr1)
 	fmt.Println(len(arr1))
-
 }
